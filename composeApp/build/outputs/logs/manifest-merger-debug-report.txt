@@ -1,0 +1,308 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.activity:activity:1.9.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/bcaebf852848cd6daf363aecfb936cc6/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.11] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/310fa66696c48dc076e54e5af8143982/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/328923bd9c1dfdb3edd2b87fe287fdfb/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/1847832a7bd8da427d056357f19c8243/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7963e2b15c14af752e88de8fe0c9f945/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/bf94f714a6a2b421817c0db2e6d94e48/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/05701404eb662f807c403889f862ca58/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/73548fbc10eeb544e423c64162340bd4/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/748ce4474ed3ba5c18683adfbaca91fe/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d6311a73af095900d9a9f22d255c2d46/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/78c8690584334b902c63b44148bd214e/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/29977d001bdc5c03bcd6b2cd5f1043a2/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e016df9d8d55e38d04335e6421b5bf71/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/62504adf930a7135fde41ae42f9d9260/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/c5ba1db6079abb4180b0e71004caf309/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e9fa0111feb4c40784748722b00529c4/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/19e5b64bcc3511e7b36f893f1a9d62b1/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/8e7382ec38194bc8b11f4c862f9d6dd8/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e4ab94629c615fca2f5b7135d007c66a/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/bbc91205eebd305a7068c22ddbdcaaf7/transformed/activity-compose-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared] /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.11] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/761081a53966b510a7c6da996ac3e90e/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/24553dd04e1f627894f3c55aeac8f07e/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/3659d38b7b176a6a26eba2cee64e9c2f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/62f162ba3b86968768c838d4d2a564be/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/79f3d467ba77c190d49f3a9d1c74f687/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/3ea8e59637e03dbea5866a7fb2657eb1/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/afad8d1e351abaa66d4fa19801ee6ba2/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/3ecd8102126063bd87459fe9a8b483b5/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/13f40e1ba5497c9a9273f959f5626a43/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d2a178613a95df64cc2e78d55a044ef2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/a435f6c9b55e218671ccad0ac86e0703/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/0303da876141e19588ea838bbeaf7d79/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/801f98ea4fa800819ed71f8e46c71497/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/492550d8ab6685e3536a8eabcdcb2c88/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/a025dcabc6234c3158a3a540211b7105/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d79e1cf2fdb0509e24fd0667ba752d73/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e74063d05c33a3905e3ccb95e938f0c1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/8d1f9ef93bba3ca432b129e54c65f99f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/06ac3ec67885867f6887eedb6f53f3bb/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/1916030bae9fbc9085c6df33e6f263eb/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d7527c06604ed22eebd0fbc268e23508/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:3:22-64
+application
+ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:4:5-20:19
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:4:5-20:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e9fa0111feb4c40784748722b00529c4/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e9fa0111feb4c40784748722b00529c4/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d2a178613a95df64cc2e78d55a044ef2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d2a178613a95df64cc2e78d55a044ef2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e74063d05c33a3905e3ccb95e938f0c1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e74063d05c33a3905e3ccb95e938f0c1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/8d1f9ef93bba3ca432b129e54c65f99f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/8d1f9ef93bba3ca432b129e54c65f99f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
+activity#org.sravni.catfacts.MainActivity
+ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:11:9-19:20
+	android:exported
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
+	android:name
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml
+MERGED from [androidx.activity:activity:1.9.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/bcaebf852848cd6daf363aecfb936cc6/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/bcaebf852848cd6daf363aecfb936cc6/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.11] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/310fa66696c48dc076e54e5af8143982/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.11] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/310fa66696c48dc076e54e5af8143982/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/328923bd9c1dfdb3edd2b87fe287fdfb/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/328923bd9c1dfdb3edd2b87fe287fdfb/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/1847832a7bd8da427d056357f19c8243/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/1847832a7bd8da427d056357f19c8243/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7963e2b15c14af752e88de8fe0c9f945/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7963e2b15c14af752e88de8fe0c9f945/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/bf94f714a6a2b421817c0db2e6d94e48/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/bf94f714a6a2b421817c0db2e6d94e48/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/05701404eb662f807c403889f862ca58/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/05701404eb662f807c403889f862ca58/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/73548fbc10eeb544e423c64162340bd4/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/73548fbc10eeb544e423c64162340bd4/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/748ce4474ed3ba5c18683adfbaca91fe/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/748ce4474ed3ba5c18683adfbaca91fe/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d6311a73af095900d9a9f22d255c2d46/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d6311a73af095900d9a9f22d255c2d46/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/78c8690584334b902c63b44148bd214e/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/78c8690584334b902c63b44148bd214e/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/29977d001bdc5c03bcd6b2cd5f1043a2/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/29977d001bdc5c03bcd6b2cd5f1043a2/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e016df9d8d55e38d04335e6421b5bf71/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e016df9d8d55e38d04335e6421b5bf71/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/62504adf930a7135fde41ae42f9d9260/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/62504adf930a7135fde41ae42f9d9260/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/c5ba1db6079abb4180b0e71004caf309/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/c5ba1db6079abb4180b0e71004caf309/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e9fa0111feb4c40784748722b00529c4/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e9fa0111feb4c40784748722b00529c4/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/19e5b64bcc3511e7b36f893f1a9d62b1/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/19e5b64bcc3511e7b36f893f1a9d62b1/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/8e7382ec38194bc8b11f4c862f9d6dd8/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/8e7382ec38194bc8b11f4c862f9d6dd8/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e4ab94629c615fca2f5b7135d007c66a/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e4ab94629c615fca2f5b7135d007c66a/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/bbc91205eebd305a7068c22ddbdcaaf7/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/bbc91205eebd305a7068c22ddbdcaaf7/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.11] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/761081a53966b510a7c6da996ac3e90e/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.11] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/761081a53966b510a7c6da996ac3e90e/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/24553dd04e1f627894f3c55aeac8f07e/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/24553dd04e1f627894f3c55aeac8f07e/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/3659d38b7b176a6a26eba2cee64e9c2f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/3659d38b7b176a6a26eba2cee64e9c2f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/62f162ba3b86968768c838d4d2a564be/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/62f162ba3b86968768c838d4d2a564be/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/79f3d467ba77c190d49f3a9d1c74f687/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/79f3d467ba77c190d49f3a9d1c74f687/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/3ea8e59637e03dbea5866a7fb2657eb1/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/3ea8e59637e03dbea5866a7fb2657eb1/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/afad8d1e351abaa66d4fa19801ee6ba2/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/afad8d1e351abaa66d4fa19801ee6ba2/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/3ecd8102126063bd87459fe9a8b483b5/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/3ecd8102126063bd87459fe9a8b483b5/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/13f40e1ba5497c9a9273f959f5626a43/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/13f40e1ba5497c9a9273f959f5626a43/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d2a178613a95df64cc2e78d55a044ef2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d2a178613a95df64cc2e78d55a044ef2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/a435f6c9b55e218671ccad0ac86e0703/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/a435f6c9b55e218671ccad0ac86e0703/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/0303da876141e19588ea838bbeaf7d79/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/0303da876141e19588ea838bbeaf7d79/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/801f98ea4fa800819ed71f8e46c71497/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/801f98ea4fa800819ed71f8e46c71497/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/492550d8ab6685e3536a8eabcdcb2c88/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/492550d8ab6685e3536a8eabcdcb2c88/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/a025dcabc6234c3158a3a540211b7105/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/a025dcabc6234c3158a3a540211b7105/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d79e1cf2fdb0509e24fd0667ba752d73/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d79e1cf2fdb0509e24fd0667ba752d73/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e74063d05c33a3905e3ccb95e938f0c1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e74063d05c33a3905e3ccb95e938f0c1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/8d1f9ef93bba3ca432b129e54c65f99f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/8d1f9ef93bba3ca432b129e54c65f99f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/06ac3ec67885867f6887eedb6f53f3bb/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/06ac3ec67885867f6887eedb6f53f3bb/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/1916030bae9fbc9085c6df33e6f263eb/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/1916030bae9fbc9085c6df33e6f263eb/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d7527c06604ed22eebd0fbc268e23508/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d7527c06604ed22eebd0fbc268e23508/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/composeApp/src/androidMain/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e9fa0111feb4c40784748722b00529c4/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e9fa0111feb4c40784748722b00529c4/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/e9fa0111feb4c40784748722b00529c4/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d2a178613a95df64cc2e78d55a044ef2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d2a178613a95df64cc2e78d55a044ef2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/8d1f9ef93bba3ca432b129e54c65f99f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/8d1f9ef93bba3ca432b129e54c65f99f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/70c3ea5c1e2c241fb4e863c549a9f68c/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#org.sravni.catfacts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#org.sravni.catfacts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/7bcf7bf8f3035fbb26f3ee7b98f9e3e2/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d2a178613a95df64cc2e78d55a044ef2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d2a178613a95df64cc2e78d55a044ef2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/d2a178613a95df64cc2e78d55a044ef2/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/sergey.sergeev/AndroidStudioProjects/FlowRx/gradle/wrapper/caches/transforms-4/eb738afe359ac79fcbd4b4832acb822c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

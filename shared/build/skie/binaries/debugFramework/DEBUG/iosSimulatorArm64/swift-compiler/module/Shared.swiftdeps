@@ -1,0 +1,51 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0f83c89db137c3c9f37a10dc862b05b647164a9dd55715be2621f8f268a8162e"
+build_start_time: [1721729139, 31480000]
+build_end_time: [1721729140, 916652000]
+inputs:
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/CatFacts__shared/CatFacts__shared.Platform_iosKt.swift"
+  : [1721729138, 661479727]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/KotlinxCoroutinesCore/KotlinxCoroutinesCore.Flow.swift"
+  : [1721729138, 660882353]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/KotlinxCoroutinesCore/KotlinxCoroutinesCore.FlowCollector.swift"
+  : [1721729138, 660975061]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.AsyncStreamDispatcherDelegate.swift"
+  : [1721729138, 659169564]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.FlowConversions.swift"
+  : [1721729138, 661229978]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.Namespace.swift"
+  : [1721729138, 659500771]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieColdFlowIterator.swift"
+  : [1721729138, 660698395]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftFlow.swift"
+  : [1721729138, 659690896]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftFlowInternalProtocol.swift"
+  : [1721729138, 659415772]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftFlowIterator.swift"
+  : [1721729138, 659595730]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftFlowProtocol.swift"
+  : [1721729138, 659337772]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftMutableSharedFlow.swift"
+  : [1721729138, 660122062]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftMutableStateFlow.swift"
+  : [1721729138, 660531104]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftOptionalFlow.swift"
+  : [1721729138, 659797729]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftOptionalMutableSharedFlow.swift"
+  : [1721729138, 660233229]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftOptionalMutableStateFlow.swift"
+  : [1721729138, 660617770]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftOptionalSharedFlow.swift"
+  : [1721729138, 660018854]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftOptionalStateFlow.swift"
+  : [1721729138, 660420854]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftSharedFlow.swift"
+  : [1721729138, 659889604]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SkieSwiftStateFlow.swift"
+  : [1721729138, 660325062]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.Skie_SuspendResult.swift"
+  : [1721729138, 661355686]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.SwiftCoroutineDispatcher.swift"
+  : [1721729138, 658755147]
+  ? "/Users/sergey.sergeev/Desktop/CatFacts/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift/generated/Skie/Skie.bridgeSubscriptionCount.swift"
+  : [1721729138, 659258605]

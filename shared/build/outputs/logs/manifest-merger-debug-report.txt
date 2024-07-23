@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7914996138084265676.xml:2:13-83
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7914996138084265676.xml:2:13-83
+	package
+		INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7914996138084265676.xml
+	xmlns:android
+		ADDED from /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7914996138084265676.xml:2:23-81
+uses-sdk
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7914996138084265676.xml reason: use-sdk injection requested
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7914996138084265676.xml
+INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7914996138084265676.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7914996138084265676.xml
+	android:minSdkVersion
+		INJECTED from /Users/sergey.sergeev/Desktop/CatFacts/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7914996138084265676.xml
